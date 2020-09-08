@@ -10,7 +10,7 @@
         
         - spark.executor.memory sets the memory for the executor.
         - spark.driver.memory sets the memory for the driver.
-
+	These settings are most optimal when allocated as per available resources
 
 
 
